@@ -1,0 +1,32 @@
+   <eVSCertifyRequest USERID="MYID">
+	<FromName>Adam Smith</FromName>
+	<FromFirm>Hello</FromFirm>
+	<FromAddress1></FromAddress1>
+	<FromAddress2>PO BOX 100</FromAddress2>
+	<FromCity>Washington</FromCity>
+	<FromState>DC</FromState>
+	<FromZip5>20260</FromZip5>
+	<FromZip4></FromZip4>
+	<FromPhone>2125551234</FromPhone>
+	<ToName>Janice Slint</ToName>
+	<ToFirm>XYZ Corporation</ToFirm>
+	<ToAddress1>Ste 100</ToAddress1>
+	<ToAddress2>2 Massachusetts Ave NE</ToAddress2>
+	<ToCity>Washington</ToCity>
+	<ToState>DC</ToState>
+	<ToZip5>20212</ToZip5>
+	<ToZip4></ToZip4>
+	<ToPhone>2125551234</ToPhone>
+	<WeightInOunces>
+		<Weights>
+			<Pounds>1</Pounds>
+		</Weights>
+	</WeightInOunces>
+	<ServiceType>Express</ServiceType>
+	<Container>LEGAL FLAT RATE ENVELOPE</Container>
+	<PriceOptions></PriceOptions>
+	<InsuredAmount>0.00</InsuredAmount>
+	<ImageType>gif</ImageType>
+	<ImageType>png</ImageType>
+	<ImageType>tif</ImageType>
+   </eVSCertifyRequest>
